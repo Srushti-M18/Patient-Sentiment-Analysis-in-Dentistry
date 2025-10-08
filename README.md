@@ -1,8 +1,7 @@
 # 🦷 From Data to Care: Exploring Patient Sentiment in Dentistry
 
 **Authors:** Srushti Mehta & Mohd Mehtab Mohd Idris Siddiqui  
-**Program:** Master’s in Big Data Analytics  
-**Group No.:** 24  
+**Program:** Master’s in Big Data Analytics   
 
 ---
 
@@ -47,6 +46,6 @@ Develop predictive models for patient satisfaction
 👩‍💻 Author
 
 Srushti Mehta
-Srushtimehta188@gmail.com
-https://www.linkedin.com/in/srushti-mehta18/
+- Srushtimehta188@gmail.com
+- https://www.linkedin.com/in/srushti-mehta18/
 
