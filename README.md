@@ -1,7 +1,7 @@
 # 🦷 From Data to Care: Exploring Patient Sentiment in Dentistry
 
-**Authors:** Srushti Mehta 
-**Program:** Master’s in Big Data Analytics   
+- **Author:** Srushti Mehta 
+- **Program:** Master’s in Big Data Analytics   
 
 ---
 
